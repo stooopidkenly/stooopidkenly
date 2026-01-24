@@ -8,11 +8,9 @@ I am a student currently navigating the world of Web Development. I spend most o
 
 ### 🚀 My Coding Journey
 
-- 🔭 **Current Capstone:** Working on *SunnyTrips* (AI-Integrated Travel Booking System) with my team.
 - 🌱 **Currently Learning:** Mastering **PHP** frameworks (CodeIgniter 4 & Laravel) and improving my Javascript/DOM manipulation skills.
 - 💡 **Goal:** To become a full-stack developer capable of building secure and scalable applications.
-- 🧩 **Interests:** Backend Development, IoT (Internet of Things), and Data Analysis.
-- ⚡ **Fun fact:** I treat coding errors as puzzles waiting to be solved!
+- ⚡ **Fun fact:** I love cats!
 
 ---
 
@@ -38,7 +36,7 @@ I am a student currently navigating the world of Web Development. I spend most o
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117" alt="Kenly's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=stooopidkenly&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117" alt="Kenly's Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stooopidkenly&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </div>
@@ -47,7 +45,7 @@ I am a student currently navigating the world of Web Development. I spend most o
 
 <div align="center">
   Let's connect and learn together! <br/>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:johnkenlypamor13@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://linkedin.com/in/your-profile">
