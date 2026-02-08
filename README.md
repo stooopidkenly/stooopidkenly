@@ -36,9 +36,11 @@ I am a student currently navigating the world of Web Development. I spend most o
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stooopidkenly&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117" alt="Kenly's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=stooopidkenly&show_icons=true&theme=midnight-purple&hide_border=true" alt="Kenly's Stats" />
+  
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stooopidkenly&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stooopidkenly&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
