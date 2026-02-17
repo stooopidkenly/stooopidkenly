@@ -47,7 +47,7 @@ I am a student currently navigating the world of Web Development. I spend most o
 
 <div align="center">
   Let's connect and learn together! <br/>
-  <a href="mailto:johnkenlypamor13@gmail.com">
+  <a  href="https://mail.google.com/mail/?view=cm&fs=1&to=johnkenlypamor13@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
