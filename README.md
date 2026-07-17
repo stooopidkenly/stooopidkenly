@@ -8,7 +8,7 @@ I am a student currently navigating the world of Web Development. I spend most o
 
 ### 🚀 My Coding Journey
 
-- 🌱 **Currently Learning:** Mastering **PHP** frameworks (CodeIgniter 4 & Laravel) and improving my Javascript/DOM manipulation skills.
+- 🌱 **Currently Learning:** Mastering **PHP** framework (Laravel) and improving my Javascript DOM manipulation skills.
 - 💡 **Goal:** To become a full-stack developer capable of building secure and scalable applications.
 - ⚡ **Fun fact:** I love cats!
 
@@ -23,8 +23,8 @@ I am a student currently navigating the world of Web Development. I spend most o
 
 **Frameworks I Use:**
 <!-- ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) -->
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
-
+<!--![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)-->
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 **Tools:**
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white)
