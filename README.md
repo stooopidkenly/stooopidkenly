@@ -35,7 +35,7 @@ I am a student currently navigating the world of Web Development. I spend most o
 
 ---
 
-### 📈 GitHub Stats
+<!-- ### 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=stooopidkenly&show_icons=true&theme=midnight-purple&hide_border=true" alt="Kenly's Stats" />
@@ -44,7 +44,7 @@ I am a student currently navigating the world of Web Development. I spend most o
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stooopidkenly&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages" />
 </div>
-
+-->
 
 <div align="center">
   Let's connect and learn together! <br/>
