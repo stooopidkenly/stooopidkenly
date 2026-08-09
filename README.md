@@ -16,36 +16,35 @@ I am a student currently navigating the world of Web Development. I spend most o
 
 ### 🛠️ Tech Stack I'm Studying
 
-**Languages:**
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Frameworks I Use:**
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-
-**Tools:**
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,php,laravel,mysql,postgres,xampp,vscode,markdown&perline=6" />
+  </a>
+</p>
 
 ---
 
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stooopidkenly&show_icons=true&theme=midnight-purple&hide_border=true" alt="Kenly's Stats" />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stooopidkenly&theme=midnight_purple" alt="Kenly's Stats" />
   <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stooopidkenly&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=stooopidkenly&theme=midnight_purple" alt="Kenly's Stats" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stooopidkenly&theme=midnight_purple" alt="Top Languages" />
 </div>
 
-<div align="center">
-  Let's connect and learn together! <br/>
-  <a  href="https://mail.google.com/mail/?view=cm&fs=1&to=johnkenlypamor13@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
+  </ul>
 </div>
+
+<!-- Replace the "YOUR-" links below with your actual profile URLs -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-USERNAME/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+  <a href="https://www.instagram.com/YOUR-USERNAME/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+  <a href="https://www.facebook.com/YOUR-USERNAME/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="50" width="50" /></a>
+  <a href="https://discordapp.com/users/YOUR-DISCORD-ID" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=johnkenlypamor13@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" height="50" width="50" /></a>
+</p>
