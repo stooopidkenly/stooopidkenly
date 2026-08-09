@@ -18,7 +18,7 @@ I am a student currently navigating the world of Web Development. I spend most o
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,tailwind,php,laravel,mysql,postgres,vscode,postman,claudecode,opencode,antigravity&perline=8" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,tailwind,php,laravel,express,nodejs,npm,mysql,postgres,vscode,postman,&perline=8" />
   </a>
 </p>
 
