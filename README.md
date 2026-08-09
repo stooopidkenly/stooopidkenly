@@ -1,6 +1,6 @@
 # Hi there, I'm John Kenly! 👋
 
-### 🎓 IT Student & Aspiring Web Developer
+### 🎓 IT Student & Aspiring Full-Stack Developer
 
 I am a student currently navigating the world of Web Development. I spend most of my time learning **Backend Logic**, exploring **Database Design**, and figuring out how things work under the hood. I'm still learning the ropes, but I enjoy the process of squashing bugs and making things work! 🐛➡️✅
 
@@ -8,9 +8,9 @@ I am a student currently navigating the world of Web Development. I spend most o
 
 ### 🚀 My Coding Journey
 
-- 🌱 **Currently Learning:** Mastering **PHP** framework (Laravel) and improving my Javascript DOM manipulation skills.
+- 🌱 **Currently Learning:** Mastering **PHP** framework (Laravel) and improving my JavaScript DOM manipulation skills.
+- 🤖 **Currently Exploring:** Agentic AI — diving deep into AI agents, LLMs, and how they'll shape full-stack development.
 - 💡 **Goal:** To become a full-stack developer capable of building secure and scalable applications.
-- ⚡ **Fun fact:** I love cats!
 
 ---
 
@@ -22,8 +22,6 @@ I am a student currently navigating the world of Web Development. I spend most o
 ![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Frameworks I Use:**
-<!-- ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) -->
-<!--![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)-->
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 **Tools:**
@@ -35,16 +33,15 @@ I am a student currently navigating the world of Web Development. I spend most o
 
 ---
 
-<!-- ### 📈 GitHub Stats
+### 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=stooopidkenly&show_icons=true&theme=midnight-purple&hide_border=true" alt="Kenly's Stats" />
-  
+
   <br/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stooopidkenly&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages" />
 </div>
--->
 
 <div align="center">
   Let's connect and learn together! <br/>
