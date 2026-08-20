@@ -29,7 +29,7 @@ I am a student currently navigating the world of Web Development. I spend most o
 <div align="center">
   <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stooopidkenly&theme=midnight_purple" alt="Kenly's Stats" /> -->
   <!-- <br/> -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=stooopidkenly&theme=midnight_purple" alt="Kenly's Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thirteeeenK&theme=midnight_purple" alt="Kenly's Stats" />
   <!-- <br/> -->
   <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stooopidkenly&theme=midnight_purple" alt="Top Languages" /> -->
 </div>
